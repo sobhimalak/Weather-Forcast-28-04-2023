@@ -1,0 +1,8 @@
+os
+requests 
+pandas
+json
+datetime
+dotenv
+psycopg2
+airflow
